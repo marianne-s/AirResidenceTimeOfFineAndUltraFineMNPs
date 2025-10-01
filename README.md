@@ -5,6 +5,6 @@ Jupyter codes to calculate the residence time of fine and ultrafine particles an
 
 License:
 Air Residence Time Of Fine And Ultra Fine Micro and Nano particles © 2019 by Marianne Seijo , Antonia Praetorius is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ <br>
-DOI : https://doi.org/10.5281/zenodo.14403432
+DOI : https://doi.org/10.5281/zenodo.17247014
 
 
