@@ -1,7 +1,6 @@
 # Residence Time of Fine and Ultrafine particles, including micro and nanoplastics, in the atmosphere
 
-Code in Jupyter to calculate the Residence Time Of Fine And Ultra Fine particles and plastics in air, in dry and wet conditions. The Jupyter codes include all the work presented in the article A mechanistic approach to evaluating atmospheric deposition of micro- and nanoplastic particles, under submission. 
-It include pur dry settling, wet settling and the wet and dry settling combo. 
+Jupyter codes to calculate the residence time of fine and ultrafine particles and plastics in air, under dry and wet conditions. The Jupyter notebooks include all the work presented in the article A mechanistic approach to evaluating atmospheric deposition of micro- and nanoplastic particles (Accepted for publication in Nature communication earth & environment). Jupyter notebooks cover pure dry settling, wet settling, and combined wet and dry settling.
 
 
 License:
